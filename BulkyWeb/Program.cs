@@ -29,6 +29,7 @@ namespace BulkyWeb
 
             app.UseRouting();
 
+
             app.UseAuthorization();
 
             app.MapControllerRoute(
